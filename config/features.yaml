@@ -1,0 +1,23 @@
+features:
+  chat_sync: true
+  live_pipe: true
+  auto_structure: true
+  scoped_search: true
+  replay_mode: true
+  tag_system: true
+  export_system: true
+  semantic_search: true
+  preview_inventory: true
+  agent_sync: true
+  offline_mode: true
+
+plugins:
+  blog_auto_publish: true
+  mailchimp_integration: true
+  stripe_hook: true
+  social_hooks: true
+
+ui:
+  terminal_mode: true
+  web_socket: true
+  mobile_safe: true
